@@ -57,7 +57,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="HIPS_Action_Accept">İzin ver</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;İzinli&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">%1$d izin ver</string>
-  <string name="HIPS_Action_Accept_Once">Bir kez izinli</string>
+  <string name="HIPS_Action_Accept_Once">Bir kez izin ver</string>
   <string name="HIPS_Action_Prompt">Sor</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Sor&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Reddet</string>
