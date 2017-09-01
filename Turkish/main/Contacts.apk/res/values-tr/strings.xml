@@ -96,6 +96,7 @@
   <string name="call_radio">Telsizi Ara</string>
   <string name="call_record_setting_miui">Çağrı Kayıt Ayarları</string>
   <string name="call_settings">Ayarlar</string>
+  <string name="call_settings_primary_user_only">Çağrı ayarlarını sadece birincil kullanıcı değiştirebilir.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">"SIM 1'den Ara"</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -497,7 +498,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
   <string name="export_vcard_description" product="default">vCard dosyasını SD Karta aktar</string>
-  <string name="export_vcard_description" product="nosdcard">Dahili Depolamaya  vCard olarak aktar</string>
+  <string name="export_vcard_description" product="nosdcard">SD Karta  vCard olarak aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
   <string name="exporting_contact_list_message">%s aktarılıyor...</string>
@@ -591,6 +592,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="hybrid_network_unavaliable">"Ağa bağlanamadı"</string>
   <string name="hybrid_service_unavailiable">Servis geçersiz</string>
   <string name="hybrid_try_again">Yeniden deneyin</string>
+  <string name="hybrid_webpage_not_available">Websitesi mevcut değil</string>
   <string name="ic_menu_back">Geri</string>
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">Anlık Mesaj</string>
@@ -1209,6 +1211,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_wipe_data">Düzenle;Kişiler</string>
   <string name="searching_vcard_message">Depolama birimindeki vCard dosyaları aranıyor...\u2026</string>
   <string name="select_all">Hepsi</string>
+  <string name="select_all_exceed">"%1$d daha fazla seçilemez, hepsi seçilemedi"</string>
+  <string name="select_exceed">%1$d daha fazla seçilemez</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="select_done">Daha fazla seçmeyin</string>
   <string name="select_groups">Grubu seçin</string>
@@ -1321,6 +1325,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="strequentList">Favoriler</string>
   <string name="success_message_import_from_account">Aktarım bitti</string>
   <string name="summary_kind_title">Sonuç</string>
+  <string name="t9_search_empty_create_contact">Yeni Kişi</string>
+  <string name="t9_search_empty_edit_contact">Kişilere ekle</string>
+  <string name="t9_search_empty_send_sms">Mesaj gönder</string>
+  <string name="t9_search_empty_video_call">Görüntülü Çağrı</string>
   <string name="summer_begins">Yaz Başlangıcı</string>
   <string name="summer_solstice">Günötesi</string>
   <string name="t9_search_guide_pinyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
@@ -1373,6 +1381,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
+  <string name="unknown_details_new_contact">Yeni Kişi</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
 
