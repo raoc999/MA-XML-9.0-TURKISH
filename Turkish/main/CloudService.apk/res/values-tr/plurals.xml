@@ -54,6 +54,14 @@
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d engelli listesi girişi</item>
-        <item quantity="one">%d engelli listesi girişi</item>
+        <item quantity="one">%dengelli listesi girişi</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">%d saat sonra eşitlemeye devam et</item>
+        <item quantity="one">%d saat sonra eşitlemeye devam et</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">%d dakika sonra eşitlemeye devam et</item>
+        <item quantity="one">%d dakika sonra eşitlemeye devam et</item>
     </plurals>
 </resources>
