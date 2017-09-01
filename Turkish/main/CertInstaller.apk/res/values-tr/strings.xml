@@ -24,6 +24,8 @@
   <string name="one_cacrt">Bir CA sertifikası</string>
   <string name="one_usercrt">Bir kullanıcı sertifikası</string>
   <string name="one_userkey">Bir kullanıcı anahtarı</string>
+  <string name="one_wapi_ascrt">Bir WAPI AS sertifikası</string>
+  <string name="one_wapi_usercrt">Bir WAPI kullanıcı sertifikası</string>
   <string name="only_primary_user_allowed">Sadece cihaz sahibi sertifikaları kurabilir.</string>
   <string name="p12_description">PKCS12 deposundaki sertifikalar.</string>
   <string name="password_empty_error">Lütfen parolayı girin.</string>
@@ -37,7 +39,7 @@
   <string name="wifi_cancel_label">İptal</string>
   <string name="wifi_config_text">"Adı: %1$s
 FQDN: %2$s
-Konsorsiyum: %3$s
+Dolaşım Konsorsiyumu: %3$s
 Ülke: %4$s
 Yetki Usulu: EAP-%5$s
 "</string>
