@@ -41,8 +41,11 @@
   <string name="backup_new">Yeni:</string>
   <string name="backup_progress">Yedekleniyor…</string>
   <string name="backup_report">Detayları gör</string>
+  <string name="backup_security_tips_message">Bazı uygulamara yedeklemek veya geri yüklemek için erişilemiyor.</string>
+  <string name="backup_security_tips_title">Yedekler çalışmıyor</string>
   <string name="backup_update">Güncelle</string>
   <string name="batch_delete_backup_confirm">Seçili yedekler silinsin mi?</string>
+  <string name="btn_got_it">Anladım</string>
   <string name="button_backup">Yedekle</string>
   <string name="button_cancel">İptal Et</string>
   <string name="button_continue">Devam Et</string>
@@ -85,6 +88,7 @@
   <string name="delete_backup_title">Yedeği Sil</string>
   <string name="delete_failed_backup_confirm">Yedekleme hatalar içeriyor.</string>
   <string name="deselect_all">Vazgeç</string>
+  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Şifreleme Pasif</string>
   <string name="enable_encrypt">Şifreleme Etkin</string>
@@ -251,6 +255,7 @@
   <string name="task_service_not_launched">"İşlem henüz başlatılamadı"</string>
   <string name="task_stopped_exception">Geri yükleme iptal edildi</string>
   <string name="total_num">%d öğe,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Yedekleniyor...</string>
   <string name="trans_backingup_no_items">Eşitleniyor...</string>
   <string name="trans_calculating">Hesaplanıyor...</string>
@@ -303,7 +308,9 @@ WLAN iNet\'i kapatmayın.
   <string name="trans_restoring_no_items">Öğeler eşitleniyor</string>
   <string name="trans_retry">Tekrar Dene</string>
   <string name="trans_scan_invalid_qrcode">QR kodu geçersiz</string>
-  <string name="trans_scan_qr_code_tips">Alıcı cihazı kullanarak QR kodunu tarayın</string>
+  <string name="trans_scan_qr_code_tips">Yeni cihazda QR kodunu tarayın</string>
+  <string name="trans_security_tips_message">"Bazı uygulamalar Mi Transfer'i desteklemez."</string>
+  <string name="trans_security_tips_title">Mi Transfer Uyumluluğu</string>
   <string name="trans_select_data">Gönderilecek verileri seçin</string>
   <string name="trans_select_data_no_space">"Gönderilecek cihazda yeterli alan yok. 
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
@@ -339,6 +346,7 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısına erişmesi gerekiyor</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="wifi_title">WLAN Ayarları</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"İndirme işlemi başlatılamadı. İndirme Yöneticisi'nin normal şekilde çalıştığından emin olun."</string>
   <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, SD kartınızı kontrol edin.</string>
