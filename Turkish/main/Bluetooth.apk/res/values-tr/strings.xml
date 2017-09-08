@@ -160,11 +160,13 @@
   <string name="permdesc_bluetoothMap">Bluetooth Mesaj Erişim Profili içerik sağlayıcısına erişmek ve müşterilerine IMAP mesajları göndermek için izni verir.</string>
   <string name="permdesc_bluetoothShareManager">Uygulamaya dosya transferi ve Bluetooth paylaşım erişimi için izin verir</string>
   <string name="permdesc_bluetoothWhitelist">Kullanıcı onayı olmadan bu cihaza dosya göndermek için geçici olarak uygulamaya izin verir.</string>
+  <string name="permdesc_handoverStatus">Bluetooth yoluyla durum bilgisini almaya izin verir.</string>
   <string name="permdesc_fm_receiver">FM alıcı işlevlerine erişmek için bir uygulamaya izin verir.</string>
   <string name="permlab_bluetoothAvrcpDataManager">avrcp metadata izin verir.</string>
   <string name="permlab_bluetoothMap">Bluetooth Mesaj Erişim Profili içerik sağlayıcısına erişir.</string>
   <string name="permlab_bluetoothShareManager">İndirme yöneticisine erişir.</string>
   <string name="permlab_bluetoothWhitelist">İzin verilen Bluetooth cihazına erişir.</string>
+  <string name="permlab_handoverStatus">BT yayın transferlerini alır.</string>
   <string name="permlab_fm_receiver">FM alıcısına erişir</string>
   <string name="process"/>
   <string name="profile_a2dp">A2DP</string>
